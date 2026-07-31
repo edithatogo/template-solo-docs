@@ -1,0 +1,7 @@
+name: CI
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  ci:
+    uses: edithatogo/repository-standards/.github/workflows/docs-ci.yml@main

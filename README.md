@@ -1,1 +1,1 @@
-# template-solo-docs
+# Documentation project
